@@ -1,0 +1,3 @@
+rm -rf mac-crlf2nl crlf2nl
+go                                       build cmd/crlf2nl.go
+mv crlf2nl mac-crlf2nl

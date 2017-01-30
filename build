@@ -1,0 +1,2 @@
+rm -rf crlf2nl
+    go                                       build cmd/crlf2nl.go
